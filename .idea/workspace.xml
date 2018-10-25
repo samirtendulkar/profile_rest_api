@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69800437-1346-4f56-a8f6-8b1ffaa2c2cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +45,7 @@
           <entry key="config" value="6" />
           <entry key="gitignore" value="2" />
           <entry key="md" value="104" />
-          <entry key="py" value="4356" />
+          <entry key="py" value="4616" />
           <entry key="txt" value="37" />
         </counts>
       </usages-collector>
@@ -51,7 +53,7 @@
         <counts>
           <entry key="Markdown" value="104" />
           <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="4356" />
+          <entry key="Python" value="4616" />
         </counts>
       </usages-collector>
     </session>
@@ -87,12 +89,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="682">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1540474628835" expanded="true" signature="1778:3638" ph="..." />
-                <marker date="1540474628835" expanded="true" signature="3259:3638" ph="..." />
+                <marker date="1540482262055" expanded="true" signature="1906:4069" ph="..." />
+                <marker date="1540482262055" expanded="true" signature="3788:4069" ph="..." />
               </folding>
             </state>
           </provider>
@@ -101,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="400">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -136,9 +138,9 @@
         <option value="$PROJECT_DIR$/.ebextensions/django.config" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/wsgi.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" />
-        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" />
       </list>
     </option>
@@ -373,10 +375,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1151048031/-1227933812/rest_framework/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4268" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -395,11 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1151048031/-1227933812/rest_framework/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4268" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -412,12 +414,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="682">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1540474628835" expanded="true" signature="1778:3638" ph="..." />
-            <marker date="1540474628835" expanded="true" signature="3259:3638" ph="..." />
+            <marker date="1540482262055" expanded="true" signature="1906:4069" ph="..." />
+            <marker date="1540482262055" expanded="true" signature="3788:4069" ph="..." />
           </folding>
         </state>
       </provider>
